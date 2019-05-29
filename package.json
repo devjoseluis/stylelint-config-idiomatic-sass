@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Digznav/stylelint-config-idiomatic-sass#readme",
   "devDependencies": {
-    "babel-eslint": "^8.0.2",
+    "babel-eslint": "^10.0.1",
     "chai": "^4.1.2",
     "eslint": "^4.11.0",
     "eslint-config-airbnb": "^16.1.0",
