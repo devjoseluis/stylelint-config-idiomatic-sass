@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "baseBranches": ["feature/upgrade-dependencies"],
   "packageRules": [{
     "depTypeList": ["dependencies"],
   }]
