@@ -4,6 +4,6 @@
   ],
   "baseBranches": ["feature\/upgrade-dependencies"],
   "packageRules": [{
-    "depTypeList": ["dependencies"],
+    "depTypeList": ["dependencies"]
   }]
 }
