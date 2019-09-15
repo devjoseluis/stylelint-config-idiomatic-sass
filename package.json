@@ -45,7 +45,7 @@
     "prettier": "^1.8.2"
   },
   "dependencies": {
-    "stylelint": "^10.0.0",
+    "stylelint": "^11.0.0",
     "stylelint-config-sass-guidelines": "^6.0.0"
   },
   "engines": {
