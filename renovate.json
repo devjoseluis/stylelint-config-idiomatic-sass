@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "baseBranches": ["feature\/upgrade-dependencies"],
+  "packageRules": [{
+    "depTypeList": ["devDependencies"],
+    "enabled": false
+  }]
+}
