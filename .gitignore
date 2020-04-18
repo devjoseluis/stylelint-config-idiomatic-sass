@@ -60,3 +60,4 @@ typings/
 .*_cache
 *.*.map
 psd/
+.idea/
