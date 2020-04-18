@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Digznav/stylelint-config-idiomatic-sass.git"
+    "url": "git+https://github.com/devjoseluis/stylelint-config-idiomatic-sass.git"
   },
   "keywords": [
     "stylelint",
@@ -21,12 +21,12 @@
     "sass",
     "guidelines"
   ],
-  "author": "Diego Miguel <digznav@gmail.com> (https://github.com/Digznav)",
+  "author": "Diego Miguel <digznav@gmail.com> (https://github.com/Digznav) || Automated Dependency Updates with @renovatebot (https://github.com/renovatebot/renovate) by José Luis Morales <hola@josemorales.dev> (https://github.com/devjoseluis)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Digznav/stylelint-config-idiomatic-sass/issues"
+    "url": "https://github.com/devjoseluis/stylelint-config-idiomatic-sass/issues"
   },
-  "homepage": "https://github.com/Digznav/stylelint-config-idiomatic-sass#readme",
+  "homepage": "https://github.com/devjoseluis/stylelint-config-idiomatic-sass#readme",
   "devDependencies": {
     "babel-eslint": "^8.0.2",
     "chai": "^4.1.2",
@@ -49,7 +49,7 @@
     "stylelint-config-sass-guidelines": "^7.0.0"
   },
   "engines": {
-    "node": ">=8",
-    "npm": ">=5"
+    "node": ">=10.18.0",
+    "npm": ">=6.13.4"
   }
 }
